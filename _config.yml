@@ -1,18 +1,18 @@
 # Site settings
-title: Anyeler Blog
-SEOTitle: 张远文的博客 | Anyeler Blog
+title: kale Blog
+SEOTitle: 周任凯的博客 | kale Blog
 header-img: img/post-bg-ioses.jpg
 email: xiaowenapple@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Anyeler Blog, 张远文的博客, Anyeler, 张远文, 远文, iOS, Apple, iPhone"
+keyword: "kale Blog, 周任凯的博客, kale, 周任凯, 任凯, iOS, Apple, iPhone"
 url: "https://kalezhou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/kalezhou/kalezhou.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "做一个低姿态的人"
-sidebar-avatar: /img/avatar_logo_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "很厉害的人"
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,12 +20,12 @@ sidebar-avatar: /img/avatar_logo_me.jpg      # use absolute URL, seeing it's use
 RSS: false
 # weibo_username:     1751653061
 # zhihu_username:     username 
-#linkedin_username:  远文-张-4a25bb151
-# gmail_username:     xiaowenapple
-#github_username:    Anyeler
+#linkedin_username:  
+# gmail_username:     
+#github_username:    
 # facebook_username:  username
-#jianshu_username:   19d46f9575ee
-#twitter_username:   Anyeler
+#jianshu_username:   
+#twitter_username:   
 
 
 
@@ -66,9 +66,9 @@ kramdown:
 #  enable: true    #是否开启Gitalk评论
 #  clientID: e84704a220ac28ba7148                            #生成的clientID
 #  clientSecret: f29659711b188138ba57b9f6b3851566d0183127    #生成的clientSecret
-#  repo: anyeler.github.io    #仓库名称
-#  owner: Anyeler    #github用户名
-#  admin: Anyeler
+#  repo: kalezhou.github.io    #仓库名称
+#  owner:     #github用户名
+#  admin: 
 #  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
