@@ -5,9 +5,9 @@ header-img: img/post-bg-ioses.jpg
 email: xiaowenapple@gmail.com
 description: "Every failure is leading towards success."
 keyword: "Anyeler Blog, 张远文的博客, Anyeler, 张远文, 远文, iOS, Apple, iPhone"
-url: "https://kale.github.io"          # your host, for absolute URL
+url: "https://kalezhou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/kalezhou/kale.github.io" # you code repository
+github_repo: "https://github.com/kalezhou/kalezhou.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -62,14 +62,14 @@ kramdown:
 # disqus_username: Anyeler
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: e84704a220ac28ba7148                            #生成的clientID
-  clientSecret: f29659711b188138ba57b9f6b3851566d0183127    #生成的clientSecret
-  repo: anyeler.github.io    #仓库名称
-  owner: Anyeler    #github用户名
-  admin: Anyeler
-  distractionFreeMode: false #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: e84704a220ac28ba7148                            #生成的clientID
+#  clientSecret: f29659711b188138ba57b9f6b3851566d0183127    #生成的clientSecret
+#  repo: anyeler.github.io    #仓库名称
+#  owner: Anyeler    #github用户名
+#  admin: Anyeler
+#  distractionFreeMode: false #是否启用类似FB的阴影遮罩
 
 
 # 统计
